@@ -149,17 +149,23 @@ C# Windows Forms를 활용해 제작한 간단한 방치형 클리커 게임입�
 ## 📷 시연 화면
 
 초기 화면
+
 <img width="643" height="642" alt="image" src="https://github.com/user-attachments/assets/e8a23c2b-0ada-4644-86bd-eadc87e317d1" />
 
 상점 화면
+
 <img width="641" height="642" alt="image" src="https://github.com/user-attachments/assets/12b76f96-0896-4d31-97f5-9bc25a829484" />
 
 뽑기 실행
+
 <img width="648" height="650" alt="image" src="https://github.com/user-attachments/assets/6a871db1-c5b7-495e-8dfd-272628cd0b9f" />
 
 도감 화면
+
 <img width="670" height="653" alt="image" src="https://github.com/user-attachments/assets/e09037be-a3bd-4381-8339-08ac33a9e5e3" />
 
 사료 지급 알림
+
 <img width="646" height="646" alt="image" src="https://github.com/user-attachments/assets/2c03f121-c5da-4ea1-ba7f-85a38f59f5b7" />
+
 <img width="645" height="646" alt="image" src="https://github.com/user-attachments/assets/266df4c6-b22f-4098-b479-c95d20b6483b" />
